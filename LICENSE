@@ -186,7 +186,11 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright [2022] [PermaThreads]
+   Copyright [2022] [NusserStudios]
+   Note: The TailBliss repository was forked by Soobin Rho for the purpose
+         of creating the PermaThreads Blog, on February 8, 2023.
+   Source: https://github.com/nusserstudios/tailbliss
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.

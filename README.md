@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-  <a href="https://blog.permathreads.com">
+  <a href="https://nsustain.com">
     <img alt="Logo" src="https://user-images.githubusercontent.com/19341857/217137769-5eac3f9a-76c7-4dc8-acc9-3b36a43d64ee.png" width="600">
   </a>
 </p>
@@ -28,6 +28,15 @@
     COMING SOON
   </b>
 </p>
+
+<br>
+
+# Plans
+
+| ***What?*** | ***Details*** |
+| ---- | ---- |
+| ***Workflow*** | • Let Henry and Harley decide exactly how our web app will look like. Then, make exactly that. Get the basics right. Make sure the core funcionalities work without any flaw. Test, find bugs, improve, and repeat. For Hult Prize and Call for Code, we will only focus on the web app. The IOS and Android version of PermaThreads will come after both th Hult Prize and Call for Code. Mobile users can use PermaThreads perfectly fine with just the web app anyways. Also, it's important to get the basics right. |
+| ***Future repositories*** | • `PermaThreads.com`, `PermaThreads-IOS`, and `PermaThreads-Android`. |
 
 <br>
 <br>

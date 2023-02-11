@@ -3,3 +3,8 @@
 
 # Dependencies
 node_modules/
+
+# Hugo build files and temporary files
+.hugo_build.lock
+/public/
+/resources/_gen/

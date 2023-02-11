@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-  <a href="https://nsustain.com">
+  <a href="https://blog.permathreads.com/">
     <img alt="Logo" src="https://user-images.githubusercontent.com/19341857/217137769-5eac3f9a-76c7-4dc8-acc9-3b36a43d64ee.png" width="600">
   </a>
 </p>

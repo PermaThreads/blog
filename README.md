@@ -33,7 +33,7 @@
 <br>
 
 ## Overview
-[1.](#1-debugging--development-commands-we-use) Debugging & Development Commands We Use<br>
+[1.](#debugging--development-commands-we-use) Debugging & Development Commands We Use<br>
 [2.](#2-) Title 2<br>
 &#160;&#160;&#160;&#160;[A.](#-) Subtitle 1<br>
 &#160;&#160;&#160;&#160;[B.](#-) Subtitle 2<br>
@@ -42,7 +42,7 @@
 <br>
 <br>
 
-## 1. Debugging & Development Commands We Use
+## Debugging & Development Commands We Use
 
 ```bash
 # Install npm dependencies
